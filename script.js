@@ -6,11 +6,11 @@ const c = 30;
 if (true) {
     var a = 40;
     let b = 50;
-    console.log(a); // Prints 40
-    console.log(b); // Prints 50
+    console.log(a); 
+    console.log(b);
 }
-console.log(a); // Prints 40
-console.log(b); // Prints 20
+console.log(a); 
+console.log(b);
 
 let name = "Alice";
 let age = 25;
